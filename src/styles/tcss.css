@@ -1,4 +1,4 @@
-@config '../tailwind.config.shadow.cjs';
+@config '../../tailwind.config.shadow.cjs';
 
 @tailwind base;
 @tailwind components;
