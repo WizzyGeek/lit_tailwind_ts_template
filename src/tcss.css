@@ -1,0 +1,5 @@
+@config '../tailwind.config.shadow.cjs';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
